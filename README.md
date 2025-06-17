@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sascharo-gxtract-badge.png)](https://mseep.ai/app/sascharo-gxtract)
+
 # GXtract MCP Server
 
 <div style="text-align: left;">
